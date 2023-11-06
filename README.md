@@ -6,7 +6,7 @@ A Development of Applicationfor Classification of Thai Betta Fish
 
 ![logo2](https://github.com/rachanh62/betta_detection/assets/149994543/4d423d88-2f71-4f22-a6ef-dc7daa7b3b18)
 
-สามารถโหลดตัวแอปเคชันได้ที่ 
+สามารถโหลดตัวแอปพลิเคชันได้ที่ 
 https://drive.google.com/file/d/1T08CcZPH2vEVSNu8y2yp9G2-FBNgtXRi/view?usp=sharing
 
 ## Getting Started
