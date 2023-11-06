@@ -1,6 +1,9 @@
 # betta_detection
 
-A new Flutter project.
+การพัฒนาแอปพลิเคชันช่วยจำแนกสายพันธุ์ปลากัดไทย
+A Development of Application
+for Classification of Thai Betta Fish
+
 
 ## Getting Started
 
